@@ -7,4 +7,3 @@ for i in range(len(a)):
         j-=1
     a[j+1]=key
 print(a)
-//take inputs from user
